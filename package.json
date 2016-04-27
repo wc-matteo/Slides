@@ -3,6 +3,6 @@
   "version": "3.1.0",
   "main": "./source/jquery.slides.js",
   "dependencies": {
-    "jquery": "^1.7.1"
+    "jquery": ">=1.7.1"
   }
 }
